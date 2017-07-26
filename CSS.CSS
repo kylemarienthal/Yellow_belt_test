@@ -1,0 +1,169 @@
+#wrapper {
+  width: 1500px;
+  height: 1700px;
+  background-color: black;
+}
+
+#logo {
+  margin-top: 31px;
+}
+
+p {
+  display: inline-block;
+  margin-left: 1050px;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+li {
+  display: inline;
+  margin-left: 95px;
+  font-size: 25px;
+  background: linear-gradient(#515151, #2B2B2B);
+  height: 30px;
+  padding-top: 2px;
+  padding-bottom: 25px;
+  margin: 0px;
+  font-size: 40px;
+  line-height: 30px;
+  color: white;
+}
+
+#main_pic {
+  height: 530px;
+  border-bottom: solid gray thick;
+  width: 1470px;
+  margin-left: 15px;
+}
+
+.content {
+  background: #1A1A1A;
+  margin-top: -5px;
+  width: 1470px;
+  margin-left: 15px;
+}
+
+.ridiculus_ornare, .ipsum_purus, .tellus_quam, .sem_egestas {
+  display: inline-block;
+  background: #1A1A1A;
+  width: 257px;
+  margin-left: 100px;
+}
+
+h3 {
+  display: inline;
+  background: #1A1A1A;
+  height: 120px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin: 0px;
+  font-size: 28px;
+  line-height: 15px;
+  color: #ED7B2A;
+}
+
+.content p {
+  margin-left: 0px;
+  width: auto;
+  color: white;
+}
+
+.content img, p {
+  display: inline-block;
+}
+
+.content img {
+  width: 52px;
+}
+
+#buy_now {
+  background: #EF8435;
+  padding: 10px 32px;
+  margin-left: 76px;
+  margin-top: 25px;
+  text-decoration: none;
+  border-radius: 10px;
+  border: solid #F6BE96 thin;
+  color: white;
+  font-size: 30px;
+}
+
+.advert {
+  background-color: black;
+  padding-top: 1px;
+  color: white;
+  margin-left: 14px;
+  width: 1471px;
+}
+
+.advert h1 {
+  /*height: 11px;*/
+  width: 714px;
+  margin-left: 50px;
+  margin-top: 47px;
+  font-size: 54px;
+  margin-bottom: 0px;
+}
+
+.advert p {
+  margin-left: 55px;
+  width: 1141px;
+  margin-left: 15px;
+  margin-top: 25px;
+}
+
+.portfolio {
+  width: 1470px;
+  height: 697px;
+  background: #1A1A1A;
+  padding-top: 1px;
+  margin-left: 15px;
+}
+
+h4 {
+  display: inline-block;
+  font-size: 30px;
+  color: white;
+  margin-left: 31px;
+}
+
+.portfolio a {
+  margin-left: 1150px;
+}
+
+.portfolio div {
+
+  display: inline-block;
+  width: 325px;
+  height: 544px;
+  margin-top: 1px;
+  margin-left: 24px;
+  vertical-align: top;
+  font-size: 34;
+}
+.portfolio_pic{
+  height: 198px;
+  width: 325px;
+  margin: 0px 0px 36px 0px;
+  border: solid #363636 medium;
+}
+h3{
+  background: none;
+  color: #EE7E2B;
+}
+
+.portfolio p{
+  width: 322px;
+  margin-left: 0px;
+  font-size: 24px;
+  color: white;
+}
+.portfolio h3{
+  background: none;
+  color: #EE7E2B;
+}
